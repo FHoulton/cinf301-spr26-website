@@ -1,7 +1,7 @@
-# Web Application Developement
+# Web Application Development
 
 | Group Members |
-|---------------|
+| :---------------: |
 | EJ |
 | Foster |
 | Gavin |
@@ -9,42 +9,34 @@
 
 ## Assignment Requirements
 
-dir - first page
+### First Page
+- Directory Structure:
+  - `images/`
+  - `css/`
+  - `js/`
+  - `index.html`
 
-images/
-css/
-js/
-index.html
+- Create a web page that uses HTML and CSS.
+- Do not use `<div>`; use content sectioning elements instead.
+- Style content in CSS.
+- Include two interesting Google Fonts with comments, **GOOGLEFONT1/2**, in CSS.
+- Use two Font Awesome icons in HTML with comments, **FONTAWESOME1/2**; keep images in the `images` folder.
+- Include at least **TWO** images.
+- Use at least 5 selectors in both HTML and CSS.
+- Use a table element where each row alternates colors.
 
-create web page the uses html and css
+### Second Page
+- Directory Structure:
+  - `images/`
+  - `css/`
+  - `js/`
+  - `index.html`
 
-do not use div, use content sectioning, style content in css
-
-two interesting google fonts with comment in css
-
-use two font awesome icons in html with comment, keep images in images folder
-
-use at least 5 selectors, html and css
-
-use table element where each row alternates colors
-
-
-
-dir - second page
-
-images/
-css/
-js/
-index.html
-
-create web page the uses html and css
-
-do not use div, use content sectioning, style content in css
-
-two interesting google fonts with comment in css
-
-use two font awesome icons in html with comment, keep images in images folder
-
-use at least 5 selectors, html and css
-
-use table element where each row alternates colors
+- Create a web page that uses HTML and CSS.
+- Do not use `<div>`; use content sectioning elements instead.
+- Style content in CSS.
+- Include two interesting Google Fonts with comments, **GOOGLEFONT1/2**, in CSS.
+- Use two Font Awesome icons in HTML with comments, **FONTAWESOME1/2**; keep images in the `images` folder.
+- Include at least **TWO** images.
+- Use at least 5 selectors in both HTML and CSS.
+- Use a table element where each row alternates colors.
