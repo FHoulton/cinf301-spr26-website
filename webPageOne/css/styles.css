@@ -1,0 +1,39 @@
+/* GOOGLEFONT1 */
+h1 {
+    font-family: 'Share Tech', sans-serif;
+}
+
+/* GOOGLEFONT2 */
+h2, nav, footer {
+    font-family: 'Oswald', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: #0f172a;
+    color: white;
+}
+
+header {
+    background-color: #020617;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    background-color: #1e293b;
+}
+
+main {
+    padding: 40px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #020617;
+}
