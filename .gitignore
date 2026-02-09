@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 .vscode
+=======
+.vscode/
+node_modules/
+.DS_Store
+>>>>>>> 72c7e46 (Add FontAwesome icons and gitignore, update layout)
