@@ -37,3 +37,27 @@ footer {
     padding: 20px;
     background-color: #020617;
 }
+
+/* FONTAWESOME1 */
+.fa-code {
+    margin-right: 10px;
+    color: #3b82f6;
+}
+
+/* FONTAWESOME2 */
+.fa-house {
+    margin-right: 8px;
+    color: #fbbf24;
+}
+
+/* FONTAWESOME3 */
+.fa-book {
+    margin-right: 8px;
+    color: #fbbf24;
+}
+
+/* FONTAWESOME4 */
+.fa-file {
+    margin-right: 8px;
+    color: #fbbf24;
+}
