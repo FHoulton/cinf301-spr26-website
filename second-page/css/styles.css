@@ -22,7 +22,7 @@ header {
     text-align: center;
 }
 
-nav ul {
+.nav-bar ul {
     list-style: none;
     display: flex;
     gap: 20px;
@@ -48,7 +48,7 @@ main {
 }
 
 /* Selector 1: Class selector for hero section */
-section.hero {
+.hero {
     background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
     padding: 60px 30px;
     border-radius: 10px;
@@ -57,13 +57,13 @@ section.hero {
     text-align: center;
 }
 
-section.hero h2 {
+.hero h2 {
     font-size: 2.5em;
     margin-top: 0;
     letter-spacing: 2px;
 }
 
-section.hero p {
+.hero p {
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.6;
@@ -83,8 +83,8 @@ section.hero p {
     transform: scale(1.05);
 }
 
-/* Selector 2: ID selector for about article */
-#about-cpp {
+/* Selector 2: Class selector for about section */
+.about-section {
     background-color: #1e293b;
     padding: 30px;
     border-left: 5px solid #3b82f6;
@@ -93,7 +93,7 @@ section.hero p {
     line-height: 1.8;
 }
 
-#about-cpp h3 {
+.about-section h3 {
     color: #60a5fa;
     margin-top: 0;
     font-size: 1.8em;
@@ -109,14 +109,14 @@ section.hero p {
 }
 
 /* Selector 3: Class selector for courses section */
-section.courses-section {
+.courses-section {
     background-color: #1e293b;
     padding: 30px;
     border-radius: 8px;
     margin-bottom: 30px;
 }
 
-section.courses-section h3 {
+.courses-section h3 {
     color: #fbbf24;
     margin-top: 0;
     font-size: 1.8em;
@@ -165,7 +165,7 @@ section.courses-section h3 {
 }
 
 /* Selector 5: Class selector for sidebar */
-aside.sidebar {
+.sidebar {
     background-color: #1e293b;
     padding: 25px;
     border: 2px solid #475569;
@@ -176,13 +176,13 @@ aside.sidebar {
     margin-bottom: 20px;
 }
 
-aside.sidebar h3 {
+.sidebar h3 {
     color: #fbbf24;
     margin-top: 0;
 }
 
 /* Selector 6: Link styling in sidebar */
-aside.sidebar a {
+.sidebar a {
     color: #60a5fa;
     text-decoration: none;
     display: block;
@@ -191,11 +191,11 @@ aside.sidebar a {
     transition: color 0.2s;
 }
 
-aside.sidebar a:last-child {
+.sidebar a:last-child {
     border-bottom: none;
 }
 
-aside.sidebar a:hover {
+.sidebar a:hover {
     color: #fbbf24;
     padding-left: 5px;
 }
